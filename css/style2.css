@@ -1,0 +1,22 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@300;400;500;600&family=Jua&display=swap');
+
+body {background-color:#333;}
+
+.ft_jua {font-family:'Jua', sans-serif;}
+.f_hover:hover {filter: brightness(70%); transition:all 0.2s;}
+.line1 {
+    stroke:#aaa;
+    stroke-width:5px;
+    fill:transparent;
+}
+.svg {
+    width:600px;
+    height:400px;
+}
+
+#f-navbar a {margin:0 auto; font-family:'Jua', sans-serif;}
+#f-jumbotron {font-family:'IBM Plex Sans KR', sans-serif; font-weight:400;}
+#f-jumbotron p a {color:#000;}
+#f-jumbotron a {font-family:'Jua', sans-serif;}
